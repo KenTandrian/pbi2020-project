@@ -1,7 +1,7 @@
 # Pekan Bahasa Indonesia 2020
 [![issues](https://img.shields.io/github/issues/KenTandrian/pbi2020-project)](https://github.com/KenTandrian/pbi2020-project/issues)
-[![language](https://img.shields.io/github/languages/count/KenTandrian/pbi2020-project)](https://github.com/KenTandrian/pbi2020-project/search?l=javascript)
-[![top-language](https://img.shields.io/github/languages/top/KenTandrian/pbi2020-project)](https://github.com/KenTandrian/pbi2020-project/search?l=javascript)
+[![language](https://img.shields.io/github/languages/count/KenTandrian/pbi2020-project)](https://github.com/KenTandrian/pbi2020-project/search?l=css)
+[![top-language](https://img.shields.io/github/languages/top/KenTandrian/pbi2020-project)](https://github.com/KenTandrian/pbi2020-project/search?l=css)
 [![commit](https://img.shields.io/github/commit-activity/m/KenTandrian/pbi2020-project)](https://github.com/KenTandrian/pbi2020-project/commits/main)
 [![last-commit](https://img.shields.io/github/last-commit/KenTandrian/pbi2020-project)](https://github.com/KenTandrian/pbi2020-project/commits/main)
 
