@@ -237,6 +237,7 @@ article {
     text-align: center;
     color: transparent;
     -webkit-background-clip: text;
+    background-clip: text;
     background-image: linear-gradient(to left, #ed213a, #93291e);
     font-size: 8rem;
     margin: 2rem 0;
@@ -409,6 +410,7 @@ article {
     text-align: center;
     color: transparent;
     -webkit-background-clip: text;
+    background-clip: text;
     background-image: linear-gradient(to left, #ed213a, #93291e);
     font-size: 2rem;
     line-height: 2rem;
